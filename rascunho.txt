@@ -1,0 +1,45 @@
+<!-- Monthly favorites -->
+        <section class="monthly-favorites">
+            <div class="row">
+                <h2 class="text-uppercase">Monthly favorites:</h2>
+            </div>
+            <div class="row">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Origin</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Jack Daniels</td>
+                            <td>American</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Johnnie Walker</td>
+                            <td>Scotch</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Macallan Ruby</td>
+                            <td>Scotch</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Maker's Mark</td>
+                            <td>American</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Jameson</td>
+                            <td>Irish</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        <!-- /.monthly-favorites -->
